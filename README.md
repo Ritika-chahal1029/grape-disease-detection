@@ -47,9 +47,7 @@ streamlit run app/app.py
 
 ##  Demo
 
-
-![App Demo](images/demo.png)
-
+![App Demo](image/demo.png)
 
 ##  Learnings
 
